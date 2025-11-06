@@ -1,0 +1,19 @@
+{
+  "redirects": [
+    {
+      "source": "/",                
+      "destination": "https://shop.jpnmkt.com/collections/freedom-ramen",
+      "permanent": true
+    },
+    {
+      "source": "/MIC2025FR",            
+      "destination": "https://shop.jpnmkt.com/discount/MIC2025FR?redirect=%2Fcollections%2Ffreedom-ramen",
+      "permanent": true
+    },
+    {
+      "source": "/IG",            
+      "destination": "https://www.instagram.com/freedom_ramen?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "permanent": true
+    }
+  ]
+}
