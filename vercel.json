@@ -9,6 +9,11 @@
       "source": "/MIC2025FR",            
       "destination": "https://shop.jpnmkt.com/discount/MIC2025FR?redirect=%2Fcollections%2Ffreedom-ramen",
       "permanent": true
+    },    
+    {
+      "source": "/JFE2025FR",            
+      "destination": "https://shop.jpnmkt.com/discount/JFE2025FR?redirect=%2Fcollections%2Ffreedom-ramen",
+      "permanent": true
     },
     {
       "source": "/IG",            
