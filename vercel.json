@@ -24,6 +24,11 @@
       "destination": "https://shop.jpnmkt.com/discount/TOJ2025FR?redirect=%2Fcollections%2Ffreedom-ramen",
       "permanent": true
     },
+    {
+      "source": "/FRIEND2526FR",            
+      "destination": "https://shop.jpnmkt.com/discount/FRIEND2526FR?redirect=%2Fcollections%2Ffreedom-ramen",
+      "permanent": true
+    },
     
     {
       "source": "/IG",            
