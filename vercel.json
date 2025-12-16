@@ -19,7 +19,12 @@
       "source": "/ChiCity2025FR",            
       "destination": "https://shop.jpnmkt.com/discount/ChiCity2025FR?redirect=%2Fcollections%2Ffreedom-ramen",
       "permanent": true
+    },        {
+      "source": "/TOJ2025FR",            
+      "destination": "https://shop.jpnmkt.com/discount/TOJ2025FR?redirect=%2Fcollections%2Ffreedom-ramen",
+      "permanent": true
     },
+    
     {
       "source": "/IG",            
       "destination": "https://www.instagram.com/freedom_ramen_usa?igsh=MzRlODBiNWFlZA==",
