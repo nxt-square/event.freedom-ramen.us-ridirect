@@ -28,6 +28,10 @@
       "source": "/FRIEND2526FR",            
       "destination": "https://shop.jpnmkt.com/discount/FRIEND2526FR?redirect=%2Fcollections%2Ffreedom-ramen",
       "permanent": true
+    },    {
+      "source": "/SJSD26FR",            
+      "destination": "https://shop.jpnmkt.com/discount/SJSD26FR?redirect=%2Fcollections%2Ffreedom-ramen",
+      "permanent": true
     },
     
     {
