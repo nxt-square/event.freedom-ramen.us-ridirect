@@ -32,6 +32,10 @@
       "source": "/SJSD26FR",            
       "destination": "https://shop.jpnmkt.com/discount/SJSD26FR?redirect=%2Fcollections%2Ffreedom-ramen",
       "permanent": true
+    },   {
+      "source": "/VSF26MAR",            
+      "destination": "https://freedom-ramen.us/discount/VSF26MAR?redirect=/collections/all",
+      "permanent": true
     },
     
     {
