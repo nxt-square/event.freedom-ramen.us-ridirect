@@ -36,6 +36,10 @@
       "source": "/VSF26MAR",            
       "destination": "https://freedom-ramen.us/discount/VSF26MAR?redirect=/collections/all",
       "permanent": true
+    },{
+      "source": "/OCJ26APR",            
+      "destination": "https://freedom-ramen.us/discount/OCJ26APR?redirect=/collections/all",
+      "permanent": true
     },
     
     {
