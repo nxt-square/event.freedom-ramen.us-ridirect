@@ -23,6 +23,10 @@
       "source": "/ChiCity2026FR",            
       "destination": "https://freedom-ramen.us/discount/ChiCity2026FR?redirect=/collections/all",
       "permanent": true
+    }, {
+      "source": "/Lorenzo26FR",            
+      "destination": "https://freedom-ramen.us/discount/Lorenzo26FR?redirect=/collections/all",
+      "permanent": true
     },        {
       "source": "/TOJ2025FR",            
       "destination": "https://shop.jpnmkt.com/discount/TOJ2025FR?redirect=%2Fcollections%2Ffreedom-ramen",
