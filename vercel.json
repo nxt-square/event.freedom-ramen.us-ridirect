@@ -54,6 +54,10 @@
       "source": "/IG",            
       "destination": "https://www.instagram.com/freedom_ramen_usa?igsh=MzRlODBiNWFlZA==",
       "permanent": true
+    },{
+      "source": "/IG-26WCUP-SLEEVE",            
+      "destination": "https://www.instagram.com/freedom_ramen_usa?igsh=MzRlODBiNWFlZA==",
+      "permanent": true
     }
   ]
 }
