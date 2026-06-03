@@ -48,6 +48,10 @@
       "source": "/OCJ26APR",            
       "destination": "https://freedom-ramen.us/discount/OCJ26APR?redirect=/collections/all",
       "permanent": true
+    },{
+      "source": "/26WCUP-SLEEVE",            
+      "destination": "https://freedom-ramen.us/?utm_source=sleeve&utm_medium=offline&utm_campaign=wcup_2026",
+      "permanent": true
     },
     
     {
