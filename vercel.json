@@ -61,6 +61,10 @@
       "destination": "https://freedom-ramen.us/discount/SEATTLE26FR?redirect=/collections/all",
       "permanent": true
     },{
+      "source": "/SHOGUN2026FR",            
+      "destination": "https://freedom-ramen.us/discount/SHOGUN2026FR?redirect=/collections/all",
+      "permanent": true
+    },{
       "source": "/SUNSHINE2026FR",            
       "destination": "https://freedom-ramen.us/discount/SUNSHINE2026FR?redirect=/collections/all",
       "permanent": true
