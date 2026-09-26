@@ -69,6 +69,10 @@
       "destination": "https://freedom-ramen.us/discount/SUNSHINE2026FR?redirect=/collections/all",
       "permanent": true
     },{
+      "source": "/SEP26VGSFR",            
+      "destination": "https://freedom-ramen.us/discount/SEP26VGSFR?redirect=/collections/all",
+      "permanent": true
+    },{
       "source": "/RIVERSIDE2026FR",            
       "destination": "https://freedom-ramen.us/discount/RIVERSIDE2026FR?redirect=/collections/all",
       "permanent": true
