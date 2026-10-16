@@ -77,6 +77,10 @@
       "destination": "https://freedom-ramen.us/discount/SEP26VSFFR?redirect=/collections/all",
       "permanent": true
     },{
+      "source": "/OCJ26FALL",            
+      "destination": "https://freedom-ramen.us/discount/OCJ26FALL?redirect=/collections/all",
+      "permanent": true
+    },{
       "source": "/RIVERSIDE2026FR",            
       "destination": "https://freedom-ramen.us/discount/RIVERSIDE2026FR?redirect=/collections/all",
       "permanent": true
